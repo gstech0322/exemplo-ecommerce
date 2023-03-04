@@ -1,4 +1,4 @@
-# Protótipo de um e-commerce
+# Prototype of an e-commerce
 <strong>Backend</strong>: REST API made with Express.js, Postgres database using Sequelize ORM.</br>
 <strong>Frontend (web)</strong>: Made with React.js using the Next.js framework to generate static pages (SSG) of products with meta tags to maximize search engine indexing (SEO).</br>
 <strong>Control Panel (web-admin)</strong>: Also ReactJS with Next.js framework, area accessible only for administrators to manage products, categories and purchase orders.
